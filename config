@@ -1,0 +1,4 @@
+Host github-mdkhrapov
+  HostName git@github-mdkhrapov:mdkhrapov/test_app.git
+  User git
+  IdentityFile /root/.ssh/id_ed25519
